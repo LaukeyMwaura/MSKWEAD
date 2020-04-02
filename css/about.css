@@ -1,5 +1,5 @@
 body {
-    background-image: url(../img/back.jpeg);
+    background-image: url(https://raw.githubusercontent.com/LaukeyMwaura/MSKWEAD/master/img/back.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'PT Sans Narrow', sans-serif;
@@ -29,4 +29,9 @@ body {
 
 button:hover {
     background-color: aqua;
+}
+
+img {
+    size: 40px;
+    height: 40px;
 }
