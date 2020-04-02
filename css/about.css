@@ -1,0 +1,32 @@
+body {
+    background-image: url(../img/back.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.text {
+    color: white;
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.pic {
+    width: 35%;
+    size: 30px;
+}
+
+#logo {
+    padding-top: 30px;
+}
+
+#title {
+    padding-top: 30px;
+    display: flexbox;
+    color: white;
+    text-decoration: underline;
+}
+
+button:hover {
+    background-color: aqua;
+}
